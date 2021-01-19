@@ -13,3 +13,6 @@
 * https://github.com/algolia/kubernetes-hands-on
 * https://github.com/collabnix/kubelabs
 
+## 實作紀錄
+
+* https://hackmd.io/e7m1ZATHSgOYEZN1F0326w?view
